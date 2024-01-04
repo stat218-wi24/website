@@ -27,7 +27,7 @@ Discover the Weekly Layout — a comprehensive guide to your week's agenda. Acce
   <tr>
     <td>&nbsp; Nothing, just come to the class!</td>
     <td>
-      &nbsp;<input type="checkbox" /><a href="docs/slides/01-Week-01/01-week01-welcome.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Covering the website & syllabus</a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /><a href="https://stat218-wi24.github.io/slides/01-Week-01/01-welcome.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Covering the website & syllabus</a> <i class="fas fa-file-lines"></i>   
       &nbsp;<input type="checkbox" /> A Discussion on Life Science and Statistics <i class="fas fa-comments"></i>
       &nbsp; &nbsp;<input type="checkbox" /> Watching short videos <i class="fas fa-video"></i>   
       &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=Tm2cCnRjcOM&list=PLkIselvEzpM5nFf4nu--q2OGccA_0alYO" target="_blank">
