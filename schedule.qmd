@@ -1,0 +1,208 @@
+---
+toc: true
+---
+
+## Course Content
+
+The course content is available here and is __complemented by__ in-class presentations and activities. Each week, we'll engage with the material through:
+
+- Reading assignments introducing key concepts for the unit/topic.  
+- Followed by lectures, in-class activities, or lab sessions encompassing the week's content.
+
+## Weekly Layout
+
+Discover the Weekly Layout — a comprehensive guide to your week's agenda. Access lecture slides, reading materials, weekly assignments, and due dates, all conveniently organized for your academic journey.
+
+
+### {{< fa calendar-days >}} Week 1 (Jan 8 - Jan 11)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 33%">BEFORE CLASS</th>
+    <th style="width: 37%">DURING CLASS</th>
+    <th style="width: 30%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+    <td>&nbsp; Nothing, just come to the class!</td>
+    <td>
+      &nbsp;<input type="checkbox" /><a href="docs/slides/01-Week-01/01-week01-welcome.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Covering the website & syllabus</a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /> A Discussion on Life Science and Statistics <i class="fas fa-comments"></i>
+      &nbsp; &nbsp;<input type="checkbox" /> Watching short videos <i class="fas fa-video"></i>   
+      &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=Tm2cCnRjcOM&list=PLkIselvEzpM5nFf4nu--q2OGccA_0alYO" target="_blank">
+        <i aria-hidden="true" title="External Link to YouTube" target="_blank"></i> 1. Using data to better understand agriculture.</a>   
+      &nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=Bz0e5xGDHaU&list=PLkIselvEzpM5nFf4nu--q2OGccA_0alYO" target="_blank">
+        <i aria-hidden="true" title="External Link to YouTube" target="_blank"></i> 2. Using statistics to treat chronic illnesses.</a>
+  </td>
+
+  <td> 
+       &nbsp;<input type="checkbox" /> <a href="https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen" target="_blank"> <i aria-hidden="true" title="External Link to YouTube" target="_blank"></i> The best stats you've ever seen</a> <i class="fas fa-video"></i>  
+      &nbsp;<input type="checkbox" /> Group Formation <i class="fas fa-users"></i>  
+      &nbsp;<input type="checkbox" /> <b> Week 1 Assignment</b><i class="fas fa-user"></i> <i class="fas fa-upload"></i>     
+      &nbsp;&nbsp;&nbsp; A short paragraph on the life science &nbsp;&nbsp;&nbsp;&nbsp;and statistics    
+<br>
+<i class="fas fa-clock"></i><b> DUE DATE: Sun, Jan 14 </b>
+  </td>
+</tr>
+
+  <tr>
+    <td> &nbsp; <b> CH 1: Introduction </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 1.2:</b> Types of Evidence <i class="fas fa-book-open"></i>    
+&nbsp; FROM Samuels et al. (2016)</td>
+    <td>    
+    &nbsp; <input type="checkbox" /> Lecture Notes   
+    &nbsp; <input type="checkbox" /> Guided Activity
+    </td>
+    <td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercises 1.2.2; 1.2.4; and 1.2.6    
+<br>
+<i class="fas fa-clock"></i>  <b> DUE DATE: Sun, Jan 14 </b>
+</td>
+  </tr>
+
+  <tr>
+    <td> &nbsp; <b> CH 1: Introduction </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 1.3:</b> Random Sampling <i class="fas fa-book-open"></i>    
+&nbsp; FROM Samuels et al. (2016)</td>
+    <td>
+    &nbsp; <input type="checkbox" /> Lecture Notes   
+    &nbsp; <input type="checkbox" /> Guided Activity
+    </td>
+    <td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercises 1.3.3    
+<br>
+<i class="fas fa-clock"></i><b> DUE DATE: Sun, Jan 14 </b>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      &nbsp; <b> Introduction to R and RStudio – Lab 1</b>  
+      &nbsp; <input type="checkbox" /> Install R <i class="fas fa-download"></i>      
+      &nbsp; <input type="checkbox" /> Install RStudio <i class="fas fa-download"></i>  
+      &nbsp; <input type="checkbox" /> First Steps in R  
+    </td>
+    <td>    
+    &nbsp; <input type="checkbox" /> Lecture Notes   
+    &nbsp; <input type="checkbox" /> Guided Activity
+    </td>
+    <td> &nbsp; <input type="checkbox" /> Review the lab session materials <b>(No submission for this lab)</b>
+    </td>
+  </tr>
+
+</table>
+
+
+
+### {{< fa calendar-days >}} Week 2 (Jan 15 - Jan 18)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 45%">BEFORE CLASS</th>
+    <th style="width: 25%">DURING CLASS</th>
+    <th style="width: 30%">AFTER CLASS</th>
+  </thead>
+
+<tr>
+  <td colspan="3" style="text-align: center;">&nbsp; <b>No Class Today !</b></td>
+</tr>
+
+  <tr>
+    <td> &nbsp; <b> Ch 2: Description of Samples and Populations </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 2.1:</b> Introduction to Variables <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox" /> <b>Section 2.2:</b> Frequency Distributions <i class="fas fa-book-open"></i>  
+&nbsp; FROM Samuels et al. (2016)</td>
+    <td>    
+    &nbsp; <input type="checkbox" /> Lecture Notes   
+    &nbsp; <input type="checkbox" /> Guided Activity
+    </td>
+    <td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercises 2.1.1; 2.2.6   
+<br>
+<i class="fas fa-clock"></i>  <b> DUE DATE: Sun, Jan 21 </b>
+</td>
+  </tr>
+
+  <tr>
+    <td> &nbsp; <b> Ch 2: Description of Samples and Populations </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 2.3:</b> Descriptive Statistics <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox" /> <b>Section 2.6:</b> Measures of Dispersion  <i class="fas fa-book-open"></i>  
+    &nbsp; FROM Samuels et al. (2016)</td>
+    <td>
+      &nbsp; <input type="checkbox" /> Lecture Notes   
+      &nbsp; <input type="checkbox" /> Guided Activity
+    </td>
+    <td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercise 2.3.3, 2.3.10, 2.6.2 and 2.6.8  
+<br>
+<i class="fas fa-clock"></i><b> DUE DATE: Sun, Jan 14 </b>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      &nbsp; <b> Introduction to Quarto and Data Visualization – Lab 2</b>  
+      &nbsp; <input type="checkbox" /> <b>Section 2.5:</b> Relationship between Variables <i class="fas fa-book-open"></i>   
+FROM Samuels et al. (2016)
+    </td>
+    <td>    
+    &nbsp; <input type="checkbox" /> Lab Worksheet   
+    <td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 1   
+<br>
+<i class="fas fa-clock"></i>  <b> DUE DATE: Sun, Jan 21 </b>
+</td>
+  </tr>
+
+</table>
+
+### {{< fa calendar >}} Week 3
+
+<br>
+Underway &nbsp; <i class="fas fa-broom"></i>
+<br>
+
+
+### {{< fa calendar >}} Week 4
+
+<br>
+Underway &nbsp; <i class="fas fa-broom"></i>
+<br>
+
+### {{< fa calendar >}} Week 5
+
+<br>
+Being Worked On &nbsp; <i class="fas fa-hammer"></i>
+<br>
+
+### {{< fa calendar >}} Week 6
+
+<br>
+Being Worked On &nbsp; <i class="fas fa-hammer"></i>
+<br>
+
+### {{< fa calendar >}} Week 7
+
+<br>
+Being Worked On &nbsp; <i class="fas fa-hammer"></i>
+<br>
+
+### {{< fa calendar >}} Week 8
+
+<br>
+Being Worked On &nbsp; <i class="fas fa-hammer"></i>
+<br>
+
+### {{< fa calendar >}} Week 9
+
+<br>
+Being Worked On &nbsp; <i class="fas fa-hammer"></i>
+<br>
+
+### {{< fa calendar >}} Week 10
+
+<br>
+Being Worked On &nbsp; <i class="fas fa-hammer"></i>
+<br>

@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "STAT 218 Winter 2024"
+  navbar:
+    right:
+    - href: "index.qmd"
+      text: "{{< fa igloo >}} Home"
+    - href: "instructor.qmd"
+      text: "{{< fa person-walking >}} Meet Your Instructor"
+    - href: "course-info.qmd"
+      text: "{{< fa circle-info >}} Course Information"
+    - href: "schedule.qmd"
+      text: "{{< fa book-skull >}} Weekly Materials"
+
+    - text: "{{< fa briefcase-medical >}} Need More Help?"
+      menu:
+      - text: "Accessibility, Diversity and Inclusion"
+        href: accessibility.html
+      - text: "---"
+      - text: "Academic Honesty"
+        href: academic_honesty.html 
+      - text: "---"  
+      - text: "Student Support and Basic Needs"   
+        href: basic_needs.html
+      - text: "---"           
+      - text: "Syllabus (PDF Version)"
+        href: syllabus.pdf
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

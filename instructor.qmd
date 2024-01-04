@@ -1,0 +1,46 @@
+---
+toc: false
+---
+
+## Meet Your Instructor and Grader
+
+Life science is complicated. As your professor, I know you already know this, and it's not my intention to teach you that. However, I am committed to giving you a glimpse into some of these complexities by integrating statistical concepts into life science topics. By the end of this course, I hope to increase your awareness of the potential inaccuracies in any data you use which implies that there might not always be a single explanation or prediction for an event, but rather, a range of possible outcomes. In the best-case scenario, I will support you in making sense of uncertainty in the (1) behavior of chemicals, (2) relationships among living organisms & communities of living organisms, and (3) physical processes that sustain most of the living systems through the use of statistics.
+
+:::: {.columns}
+
+::: {.column width="45%"}
+## Instructor
+
+
+```{=html}
+<img src="img/sinem.jpeg" alt="A headshot of a woman with curly, short, shoulder-length hair with green eyes."
+  style="width: 250px; height: 250px; border-radius: 100%; margin-top: 5px; border: 1px solid whitesmoke; padding: 5px;">
+
+```
+
+{{< fa volume-high >}} [Dr. Sinem Demirci](audio/how-to-pronounce-my-name.mp3) (she/they)  
+{{< fa brands github >}} <a href = "http://github.com/sinemdemirci" target = blank>sinemdemirci</a>   
+{{< fa envelope >}} <a href = "mailto:sdemirci@calpoly.edu" target = blank>sdemirci@calpoly.edu</a>   
+{{< fa building >}} <a href = "https://maps.app.goo.gl/7dTPXc1jELP4gs297" target = blank> 025-213</a>
+ 
+### Office Hours:
+
+__Tue:__ 08:30 – 09:20 am _(In-Office)_  
+__Wed:__ 10:40 – 11:30 pm _(Zoom)_ <a href = "https://calpoly.zoom.us/j/89392427908" target = blank>{{< fa link >}}</a>  
+__Thu:__ 09:30 – 11:10 am _(In-Office)_  
+
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="45%"}
+
+ 
+## Grader  
+{{< fa volume-high >}} Kristina Mee Benbrooks  
+{{< fa envelope >}} <a href = "mailto:kbenbroo@calpoly.edu">kbenbroo@calpoly.edu</a>   
+
+:::
+::::

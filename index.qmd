@@ -1,0 +1,76 @@
+---
+title: "STAT 218 - Applied Statistics for the Life Sciences"
+toc: false
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {style="font-size: 18px"}
+
+STAT 218 is tailored for life science students who will inevitably engage with statistics in their future professions. 
+
+In this course, we will cover the following concepts, illustrating real-world applications of statistics in the life sciences: descriptive statistics, confidence intervals, parametric and nonparametric one-and two-sample hypothesis tests, analysis of variance, correlation, simple linear regression, chi-square tests. 
+
+:::
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="45%"}
+
+```{r}
+#| echo: false
+#| fig-align: center
+knitr::include_graphics("img/img1.png")
+```
+:::
+::::
+
+At times, we'll utilize the R programming language, a tool favored by _Homo sapiens_, to practically apply the techniques and theories learned. This includes making statistical inferences based on datasets. (I'm still in the dark about what <a href="https://www.sciencedirect.com/science/article/abs/pii/S0960982223007741?via=ihub" target="_blank"><i>Corvus corone</i></a>
+ are using for making statistical inferences; maybe you’ll tell me how they do it as a life science student!).
+
+<br>
+
+## Learning Outcomes
+
+Upon completion of this course, you will be able to:
+
+1. describe statistics as a discipline in your own words,
+2. explain the interactions between statistics and life sciences,
+3. design a data collection scheme based on simple random sampling or simple experimental designs,
+4. distinguish between observational studies and experiments and understand the limitations (practical and consequential) of each,
+5. summarize data using graphical techniques,
+6. summarize data using numerical techniques,
+7. construct and interpret confidence intervals for means and differences between means for independent samples,
+8. construct and interpret confidence intervals for means and differences between means for paired samples,
+9. conduct parametric two-sample hypothesis tests for means,
+10. conduct non-parametric two-sample hypothesis tests for means,
+11. construct and interpret a confidence interval for a single proportion,
+12. conduct Chi-square goodness-of-fit tests and tests for independence,
+13. distinguish between case-control and cohort studies and compute relative-risk and odds in the appropriate settings,
+14. perform analysis of variance tests and post-hoc comparisons for completely randomized designs,
+15. explain why correlation does not imply causation,
+16. use simple linear regression to describe relationships between variables.
+
+<br>
+
+## Sustainability Learning Outcomes
+
+Given your majors in life sciences and my academic background in environmental and sustainability education, I'm enthusiastic about incorporating Cal Poly's Sustainability Learning Objectives into our course content. _While I won't be assigning grades_ specifically for this subject, I encourage you to explore and assess your progress in achieving these objectives. Additionally, you can learn more about sustainability topics by coming to my office or reaching out to ask. 
+
+Below, I've included Cal Poly's definition of sustainability and its associated learning objectives. I am planning to integrate 1^st^ and 4^th^ learning objectives specifically.
+
+_Cal Poly defines sustainability as the ability of the natural and social systems to survive and thrive together to meet current and future needs. In order to consider sustainability when making reasoned decisions, all graduating students should be able to:_
+
+_1. Define and apply sustainability principles within their academic programs,_   
+_2. Explain how natural, economic, and social systems interact to foster or prevent sustainability,_   
+_3. Analyze and explain local, national, and global sustainability using a multidisciplinary approach,_   
+_4. Consider sustainability principles while developing personal and professional values._
+
+
+::: {style="font-size: 12px"}
+
+_Image by <a href="https://www.freepik.com/free-photo/person-holding-globe-grass-with-copy-space_7462463.htm">Freepik</a>_
+:::

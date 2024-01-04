@@ -1,0 +1,373 @@
+---
+title: "Course Information"
+toc: true
+---
+
+```{r}
+#| echo: false
+#| output: false
+
+library(tidyverse)
+library(lubridate)
+library(stevemisc)
+library(kableExtra)
+
+```
+
+Your learning journey begins at <a href="https://maps.app.goo.gl/Dh85yYRbjKFcNfTv9" target = blank>Building 186 - Construction Innovations Center</a>. Follow this link to locate the hub of knowledge for your class. {{< fa school >}} {{< fa bell >}} {{< fa person-chalkboard >}} {{< fa comments >}} {{< fa square-poll-vertical >}} 
+
+__Section 03:__ MTWR 12:10 – 01:00 PM (186-C302)  
+__Section 04:__ MTWR 01:10 – 02:00 PM (186-C101)  
+__Section 01:__ MTWR 03:10 – 04:00 PM (186-C201)   
+__Section 02:__ MTWR 04:10 – 05:00 PM (186-C302) 
+
+## Course Schedule
+
+```{r}
+#| echo: false
+#| output: true
+#| warning: false
+
+# Ref: http://svmiller.com/blog/2020/08/a-ggplot-calendar-for-your-semester/
+
+quarter_dates <- c(ymd(20240316), ymd(20240319),
+  seq(ymd(20240108), ymd(20240314), by=1)
+)
+class_wdays <- c("Mon", "Tue", "Wed", "Thu")
+
+not_here_dates <- c(
+  ymd("20240115"),
+  ymd("20240219")
+  )
+
+exam_date <- c(ymd(20240205), ymd(20240316))
+
+project_dates <- c(ymd(20240222), ymd(20240319))
+
+finals_week <- seq(ymd(20240318), ymd(20240322), by = 1)
+
+# Create a data frame of dates, assign to Cal
+Cal <- tibble(date = seq(ymd(20240101), ymd(20240331), by=1))  |>
+  mutate(mon = lubridate::month(date, label = T, abbr = F),
+         wkdy = weekdays(date, abbreviate = T),
+         wkdy = fct_relevel(wkdy, "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"),
+         quarter = date %in% quarter_dates, 
+         project = date %in% project_dates,
+         exam = date %in% exam_date,
+         not_here = date %in% not_here_dates, # Academic Holidays at Cal Poly
+         exam_wk = date %in% finals_week,
+         day = lubridate::mday(date), 
+         week = wom(date)
+         ) |>
+  mutate(category = case_when(
+    project ~ "Projects Due",
+    exam ~ "Exam (In-Class)",
+    not_here ~ "Cal Poly Holiday",
+    quarter & wkdy %in% class_wdays & !not_here & !exam_wk | date == "2023-03-18" ~ "Class Day",
+    TRUE ~ "NA")
+  )
+
+class_cal <- Cal |> 
+  ggplot(aes(wkdy, week)) +
+  theme_bw() +
+  theme(aspect.ratio = 0.5, 
+        panel.grid.major.x = element_blank(),
+        legend.position = "bottom",
+        legend.title = element_blank(),
+        axis.title.y = element_blank(), 
+        axis.title.x = element_blank(),
+        axis.ticks.y = element_blank(), 
+        axis.text.y = element_blank()) +
+  geom_tile(alpha= 1, aes(fill=category), color="black", linewidth=.45) +
+  facet_wrap(~mon, scales = "free", ncol=2) +
+  geom_text(aes(label = day, color = quarter & (!not_here))) +
+  scale_y_reverse(breaks=NULL) +
+  scale_color_manual(values = c("FALSE" = "#E4E3D3", "TRUE" = "black"), guide = "none") + 
+  scale_fill_manual(values=c("Class Day" = "#154734", 
+                             "Exam (In-Class)" = "#D0DF00",
+                             "Projects Due" = "#FF6A39",
+                             "Cal Poly Holiday" = "#BD8B13",
+                             "NA" = "white"),
+                    breaks=c("Class Day", "Cal Poly Holiday", "Exam (In-Class)", "Projects Due"))
+class_cal
+```
+
+
+## Prerequisite
+
+Entrance to STAT 218 requires at least one of the following be met:
+
+- Grade of C- or better in MATH 115  
+- Grade of B or better in MATH 96 
+- Appropriate placement on the <a href="https://math.calpoly.edu/mape"target="_blank">Math Placement Exam</a>.
+
+You should have familiarity with computers and technology (e.g., Internet browsing, word processing, opening/saving files, converting files to PDF format, sending and receiving e-mail, etc.).
+
+
+## Required Materials
+
+__Required Textbooks:__ We will use two textbooks. The former textbook covers fundamental theories, while the latter textbook delves into practical applications.
+
+- Samuels, M.L., Witmer, J.A., and Schaffner, A. A. (2016). Statistics for the Life Sciences, 5th ed., Pearson Education Limited.
+- Diez D. M., Çetinkaya-Rundel, M., & Barr, C. D. (2022). <a href="https://leanpub.com/os"target="_blank">OpenIntro Statistics </a>.  
+
+__Technology/Tools:__ Calculator, Laptop/Chromebook/iPad Device
+
+__Online Resources:__ We will use <a href="https://www.rossmanchance.com/applets/index2021.html"target="_blank">Rossman/Chance Applet Collection 2021</a> of our very own Professors at Cal Poly, <a href="https://statistics.calpoly.edu/allan-rossman"target="_blank"> Allan Rossman</a> & <a href="https://statistics.calpoly.edu/Beth-Chance"target="_blank"> Beth Chance</a>
+
+## Grading and Late Submission Policies
+
+
+### Grading
+
+<div class="custom-table">
+  <style>
+    .custom-table table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px auto; /* Center the table */
+    }
+
+    .custom-table th, .custom-table td {
+      border: 1px solid #dddddd;
+      text-align: justify;
+      padding: 12px;
+    }
+
+    .custom-table tr:nth-child(1) {
+      background-color: #ffffff;
+    }
+
+    .custom-table tr:nth-child(2) {
+      background-color: #d0dad6;
+    }
+
+    .custom-table tr:nth-child(3) {
+      background-color: #a1b5ad;
+    }
+
+    .custom-table tr:nth-child(4) {
+      background-color: #a1b5ad;
+    }
+
+    .custom-table tr:nth-child(5) {
+      background-color: #a1b5ad;
+    }
+
+    .custom-table tr:nth-child(6) {
+      background-color: #729085;
+    }
+
+    .custom-table tr:nth-child(7) {
+      background-color: #436b5c;
+    }
+
+    .custom-table tr:nth-child(8) {
+      background-color: #154734;
+    }
+  </style>
+
+  <table>
+    <tr>
+      <th>Assessment</th>
+      <th>Percentage</th>
+    </tr>
+    <tr>
+      <td>Midterm Project (Group)</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td>Midterm Exam (In-class)</td>
+      <td>15%</td>
+    </tr>
+    <tr>
+      <td>Lab Assignments (Group)</td>
+      <td>15%</td>
+    </tr>
+    <tr>
+      <td>Weekly Assignments (Individual)</td>
+      <td>15%</td>
+    </tr>
+    <tr>
+      <td>Final Project (Group)</td>
+      <td>20%</td>
+    </tr>
+   </tr>
+    <tr style="background-color: #436b5c; color: #ffffff;">
+      <td>Final Exam (In-class)</td>
+      <td>25%</td>
+    </tr>
+    <tr style="background-color: #154734; color: #ffffff;">
+      <td>Total</td>
+      <td>100%</td>
+    </tr>
+  </table>
+</div>
+
+
+
+### Letter Grades
+
+Your final grades will be determined based on the total points earned. It's essential to review the letter grades outlined below for a clear understanding of the grading criteria. __Please be aware that I will not "round up" grades at the end of the quarter.__
+
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .no-color-table table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px auto; /* Center the table */
+    }
+    .no-color-table th, .no-color-table td {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+      background-color: transparent; /* Set background color to transparent */
+    }
+  </style>
+</head>
+<body>
+
+<table class="no-color-table">
+  <tr>
+    <th>Letter Grade</th>
+    <th>Points</th>
+  </tr>
+  <tr>
+    <td>$A$</td>
+    <td>$93 \le x$</td>
+  </tr>
+  <tr>
+    <td>$A^-$</td>
+    <td>$90 \le x < 93$</td>
+  </tr>
+  <tr>
+    <td>$B^+$</td>
+    <td>$87 \le x < 90$</td>
+  </tr>
+  <tr>
+    <td>$B$</td>
+    <td>$83 \le x < 87$</td>
+  </tr>
+  <tr>
+    <td>$B^-$</td>
+    <td>$80 \le x < 83$</td>
+  </tr>
+  <tr>
+    <td>$C^+$</td>
+    <td>$77 \le x < 80$</td>
+  </tr>
+  <tr>
+    <td>$C$</td>
+    <td>$73 \le x < 77$</td>
+  </tr>
+  <tr>
+    <td>$C^-$</td>
+    <td>$70 \le x < 73$</td>
+  </tr>
+  <tr>
+    <td>$D^+$</td>
+    <td>$67 \le x < 70$</td>
+  </tr>
+  <tr>
+    <td>$D$</td>
+    <td>$63 \le x < 67$</td>
+  </tr>
+  <tr>
+    <td>$D^-$</td>
+    <td>$60 \le x < 63$</td>
+  </tr>
+  <tr>
+    <td>$F$</td>
+    <td>$x < 60$</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+
+### Assessment Types 
+
+Our weekly units/topics will follow a pattern and have been designed to give you practice with the concepts. Below you will find brief descriptions of the types of assignments in this course.
+
+
+#### Weekly Assignments 
+
+You will have assignments every week, typically consisting of 3-4 daily assignments per week. Please upload them collectively, using a format like 'Week X Assignment Name Surname'.
+
+These assignments are individual assignments to track your learning progress. You can do these assignments either using your PC/Laptop/iPad/Chromebook or solve them to your notebook. Either way, you should upload them to Canvas. All weekly assignments are due __Sundays at 11.59 pm__.
+
+#### Lab Assignments
+
+We will have 7 lab sessions, each followed by a corresponding lab assignment. Lab sessions will be conducted in groups, and the lab assignments will also be group projects. This means that you will submit your lab assignments as a group. __Each group is composed of 3-5 students__ to work and complete the labs together both in the class and after the class.
+
+The due dates will be determined based on the day of the lab sessions, and I will provide advance notice of these deadlines.
+
+__Important:__ Please refrain from including the names of group members who did not participate. In the event of absent students, they must either complete the lab assignment individually or coordinate with their group members to complete it together as a group project. __Once the groups are determined, NO CHANGES ARE ALLOWED without prior notification to the instructor.__
+
+#### Exams
+
+Exams are to be taken without the use of textbooks or notes. It is expected that you will take exams as per the scheduled times. In cases of extraordinary circumstances like illness, a family loss, please inform me before the examination.
+
+You won't be required to computer for the exams, but you may see some questions that involve filling in missing information, interpreting provided R outputs, or selecting the appropriate code to complete a task.
+
+Here are the due dates of exams and projects:
+
+__Mon, Feb 5:__ Midterm Exam (Individual, In-class)
+
+__Thu, Feb 22:__ Midterm Project (Group submission on Canvas)
+
+__Sat, Mar 16:__ Common Final Exam (Individual) - TBD
+
+__Tue, Mar 19:__ Final Project (Group submission on Canvas)
+
+
+#### Projects
+
+The overarching goal of the projects in this course is to empower life science students by cultivating a profound <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002400/" target="_blank"> sense of agency</a>. This involves actively engaging with the learning process, making informed decisions, and taking ownership of your academic journey. Through the selection of your unique data set, you will have the opportunity to construct a personalized case study, formulate research questions, employ diverse statistical procedures, and effectively communicate your findings. This hands-on approach not only enhances your understanding of the subject matter but also nurtures a proactive and self-directed approach to learning.
+
+__Midterm Project:__ In this midterm project, you will select your own dataset from <a href="https://www.openintro.org/data/" target="_blank"> OpenIntro Data Sets </a> or another suitable source. If your group members share the same major, it's recommended to choose a dataset related to your field of study.
+
+The project will involve applying various statistical procedures covered in our course. For detailed instructions, refer to the template (Template will be provided later on).
+
+__Final Project:__ In this final project, you will select your own dataset from <a href="https://www.openintro.org/data/" target="_blank"> OpenIntro Data Sets </a> or another suitable source. If your group members share the same major, it's recommended to choose a dataset related to your field of study.
+
+The project will involve applying various statistical procedures covered in our course. For detailed instructions, refer to the template(Template will be provided later on).
+
+::: {.callout-important}
+
+Your final project grade is composed of following components:
+
+- __Final Project:__ 75 points  
+- __Project Peer Evaluation:__ 20 points  
+- __Self-Reflection Paper:__ 5 points
+
+:::
+
+#### Attendance/Participation
+
+Regular attendance is expected from all students to maintain the quality and quantity of their work. In essence, your attendance plays a crucial role in your ability to succeed in every type of assessment conducted in our class, as consistent absences may interrupt your learning and indirectly impact your grades.
+
+I will record attendance during every lecture, not for grading purposes, but to track your learning progress in this class. In case of recurring absences, I will reach out to understand the reasons and work together to find solutions. __If you fail to attend over 50% of classes and neglect to submit more than 50% of weekly assignments and lab assignments without prior notification, you may receive a <a href="https://catalog.calpoly.edu/academicstandardsandpolicies/grading/" target="_blank"> WU </a>__
+
+In brief, you must be present in class (both physically and mentally) unless you have an <a href="https://academicprograms.calpoly.edu/content/academicpolicies/class-attendance" target="_blank"> "Excusable" Reason for Missing Class </a>. Please contact with me in advance if you are not coming and do your best to catch up what we have done in that day. You can also schedule a virtual appointment if you have questions about the missing class you had.
+
+### Late Submission Policies
+
+I am using Dr Robinson's late work policy for this class. This quotation below was taken from her syllabus.
+
+"We are living through a challenging time with unique, unusual circumstances. I do not want class deadlines to cause you extreme stress or anxiety. I offer 3 “grace days” – days to turn in the assignment late without a penalty."
+
+These can be used __ONLY__ on homework assignments and lab assignments (a single group member must be willing to use one of their grace days for the entire group), but __NOT__ exams or group midterm/final projects. These “grace days” can be used all at once on a single assignment or used on separate assignments throughout the quarter. Simply add a comment on the assignment in Canvas and send me an email to let me know you how many “grace days” you want to use on the assignment.
+
+After the expiration of your 'grace days,' a 10% grade reduction will be applied for each day that the assignment is overdue. Late submissions will not be accepted after one week from the original due date. __Resubmitting assignments is not allowed.__ Please ensure timely completion to avoid any complications.
+
+#### Automatic Canvas Settings
+Canvas is set up to automatically input 0% for missing assignments (as an incentive to go complete the assignment) and apply the 10% grade deduction policy. I will need to manually adjust your grade when you use your grace days, so it is important for you to leave a note on your assignment and email me. You are responsible for double checking your grade.
+
+If you find yourself with extenuating circumstances beyond the defined late policy, please email me before the due date.
