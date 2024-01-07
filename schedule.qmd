@@ -11,7 +11,16 @@ The course content is available here and is __complemented by__ in-class present
 
 ## Weekly Layout
 
-Discover the Weekly Layout — a comprehensive guide to your week's agenda. Access lecture slides, reading materials, weekly assignments, and due dates, all conveniently organized for your academic journey.
+Discover the Weekly Layout — a comprehensive guide to your week's agenda. Access 
+
+lecture slides <i class="fas fa-file-lines"></i>,  
+videos <i class="fas fa-video"></i>,    
+reading materials <i class="fas fa-book-open"></i>,  
+weekly assignments <i class="fas fa-user"></i> <i class="fas fa-upload"></i>,  
+group assignments <i class="fas fa-users"></i> <i class="fas fa-upload"></i> and  
+due dates <i class="fas fa-clock"> </i>,  
+
+all conveniently organized for your academic journey.
 
 
 ### {{< fa calendar-days >}} Week 1 (Jan 8 - Jan 11)
@@ -28,7 +37,7 @@ Discover the Weekly Layout — a comprehensive guide to your week's agenda. Acce
     <td>&nbsp; Nothing, just come to the class!</td>
     <td>
       &nbsp;<input type="checkbox" /><a href="https://stat218-wi24.github.io/slides/01-Week-01/01-welcome.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Covering the website & syllabus</a> <i class="fas fa-file-lines"></i>   
-      &nbsp;<input type="checkbox" /> A Discussion on Life Science and Statistics <i class="fas fa-comments"></i>
+      &nbsp;<input type="checkbox" /> A Discussion on Life Science and Statistics <i class="fas fa-comments"></i>   
       &nbsp; &nbsp;<input type="checkbox" /> Watching short videos <i class="fas fa-video"></i>   
       &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=Tm2cCnRjcOM&list=PLkIselvEzpM5nFf4nu--q2OGccA_0alYO" target="_blank">
         <i aria-hidden="true" title="External Link to YouTube"></i> 1. Using data to better understand agriculture.</a>   
@@ -52,7 +61,7 @@ Discover the Weekly Layout — a comprehensive guide to your week's agenda. Acce
 &nbsp; FROM Samuels et al. (2016)</td>
     <td>    
     &nbsp; <input type="checkbox" /> <a href = "https://stat218-wi24.github.io/slides/01-Week-01/02-Week-1-Lec-02.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slide</a> <i class="fas fa-file-lines"></i>   
-    &nbsp; <input type="checkbox" /> Guided Activity
+    &nbsp; <input type="checkbox" /> Guided Classroom Activity <i class="fas fa-comments"></i>   
     </td>
     <td>
     &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercises 1.2.2; 1.2.4; and 1.2.6    
@@ -79,9 +88,8 @@ Discover the Weekly Layout — a comprehensive guide to your week's agenda. Acce
   <tr>
     <td>
       &nbsp; <b> Introduction to R and RStudio – Lab 1</b>  
-      &nbsp; <input type="checkbox" /> Install R <i class="fas fa-download"></i>      
-      &nbsp; <input type="checkbox" /> Install RStudio <i class="fas fa-download"></i>  
-      &nbsp; <input type="checkbox" /> First Steps in R  
+      &nbsp; <input type="checkbox" /><a href = "https://cran.rstudio.com/" target = blank> Install R</a> <i class="fas fa-download"></i>     
+      &nbsp; <input type="checkbox" /> <a href = "https://posit.co/download/rstudio-desktop/" target = blank>Install RStudio</a> <i class="fas fa-download"></i>  
     </td>
     <td>    
     &nbsp; <input type="checkbox" /> Lecture Notes   
