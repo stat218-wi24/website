@@ -39,7 +39,14 @@ __Thu:__ 09:30 – 11:10 am _(In-Office)_
 
  
 ## Grader  
-{{< fa volume-high >}} Kristina Mee Benbrooks  
+
+```{=html}
+<img src="img/kristina.jpg" alt="Portrait of a woman with straight, long hair and brown eyes, framed by lush green leaves in the background."
+  style="width: 250px; height: 250px; border-radius: 100%; margin-top: 5px; border: 1px solid whitesmoke; padding: 5px;">
+
+```
+
+{{< fa volume-high >}} Kristina Mee Benbrooks (she/her) 
 {{< fa envelope >}} <a href = "mailto:kbenbroo@calpoly.edu">kbenbroo@calpoly.edu</a>   
 
 :::

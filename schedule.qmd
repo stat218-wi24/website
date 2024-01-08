@@ -2,12 +2,15 @@
 toc: true
 ---
 
+Certainly! Here's an adjustment to the second bullet:
+
 ## Course Content
 
-The course content is available here and is __complemented by__ in-class presentations and activities. Each week, we'll engage with the material through:
+The course content, available here, is further enriched by in-class presentations and activities. Each week, we'll engage with the material through:
 
-- Reading assignments introducing key concepts for the unit/topic.  
-- Followed by lectures, in-class activities, or lab sessions encompassing the week's content.
+- Reading assignments introducing key concepts for the unit/topic.
+- Followed by lectures, in-class activities, or lab sessions exploring the week's content.
+- Submitting _weekly assignments_ through [__Canvas__](https://canvas.calpoly.edu/).
 
 ## Weekly Layout
 

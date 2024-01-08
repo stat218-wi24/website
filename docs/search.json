@@ -4,14 +4,14 @@
     "href": "schedule.html",
     "title": "STAT 218 Winter 2024",
     "section": "",
-    "text": "The course content is available here and is complemented by in-class presentations and activities. Each week, we’ll engage with the material through:\n\nReading assignments introducing key concepts for the unit/topic.\n\nFollowed by lectures, in-class activities, or lab sessions encompassing the week’s content."
+    "text": "Certainly! Here’s an adjustment to the second bullet:"
   },
   {
     "objectID": "schedule.html#course-content",
     "href": "schedule.html#course-content",
     "title": "STAT 218 Winter 2024",
-    "section": "",
-    "text": "The course content is available here and is complemented by in-class presentations and activities. Each week, we’ll engage with the material through:\n\nReading assignments introducing key concepts for the unit/topic.\n\nFollowed by lectures, in-class activities, or lab sessions encompassing the week’s content."
+    "section": "Course Content",
+    "text": "Course Content\nThe course content, available here, is further enriched by in-class presentations and activities. Each week, we’ll engage with the material through:\n\nReading assignments introducing key concepts for the unit/topic.\nFollowed by lectures, in-class activities, or lab sessions exploring the week’s content.\nSubmitting weekly assignments through Canvas."
   },
   {
     "objectID": "schedule.html#weekly-layout",
@@ -158,6 +158,6 @@
     "href": "instructor.html#grader",
     "title": "STAT 218 Winter 2024",
     "section": "Grader",
-    "text": "Grader\n Kristina Mee Benbrooks\n kbenbroo@calpoly.edu"
+    "text": "Grader\n\n\n Kristina Mee Benbrooks (she/her)  kbenbroo@calpoly.edu"
   }
 ]
