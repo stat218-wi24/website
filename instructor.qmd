@@ -46,7 +46,7 @@ __Thu:__ 09:30 – 11:10 am _(In-Office)_
 
 ```
 
-{{< fa volume-high >}} Kristina Mee Benbrooks (she/her) 
+{{< fa volume-high >}} Kristina Mee Benbrooks (she/her)  
 {{< fa envelope >}} <a href = "mailto:kbenbroo@calpoly.edu">kbenbroo@calpoly.edu</a>   
 
 :::
