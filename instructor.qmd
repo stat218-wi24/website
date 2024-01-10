@@ -26,7 +26,7 @@ Life science is complicated. As your professor, I know you already know this, an
 ### Office Hours:
 
 __Tue:__ 08:30 – 09:20 am _(In-Office)_  
-__Wed:__ 10:40 – 11:30 pm _(Zoom)_ <a href = "https://calpoly.zoom.us/j/89392427908" target = blank>{{< fa link >}}</a>  
+__Wed:__ 10:40 – 11:30 am _(Zoom)_ <a href = "https://calpoly.zoom.us/j/89392427908" target = blank>{{< fa link >}}</a>  
 __Thu:__ 09:30 – 11:10 am _(In-Office)_  
 
 :::
