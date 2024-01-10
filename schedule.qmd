@@ -63,7 +63,7 @@ all conveniently organized for your academic journey.
     &nbsp;<input type="checkbox" /> <b>Section 1.2:</b> Types of Evidence <i class="fas fa-book-open"></i>    
 &nbsp; FROM Samuels et al. (2016)</td>
     <td>    
-    &nbsp; <input type="checkbox" /> <a href = "https://stat218-wi24.github.io/slides/01-Week-01/02-Week-1-Lec-02.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slide - Types of Evidence </a>&nbsp;<i class="fas fa-file-lines"></i>   
+    &nbsp; <input type="checkbox" /> <a href = "https://stat218-wi24.github.io/slides/01-Week-01/02-Week-1-Lec-02.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - Types of Evidence </a>&nbsp;<i class="fas fa-file-lines"></i>   
     &nbsp; <input type="checkbox" /> Guided Classroom Activity <i class="fas fa-comments"></i>   
     </td>
     <td>
@@ -79,7 +79,7 @@ all conveniently organized for your academic journey.
     &nbsp;<input type="checkbox" /> <b>Section 1.3:</b> Random Sampling <i class="fas fa-book-open"></i>    
 &nbsp; FROM Samuels et al. (2016)</td>
     <td>
-    &nbsp; <input type="checkbox" /> <a href = "https://stat218-wi24.github.io/slides/01-Week-01/03-Week-1-Lec-03.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slide - Random Sampling </a>&nbsp;<i class="fas fa-file-lines"></i>      
+    &nbsp; <input type="checkbox" /> <a href = "https://stat218-wi24.github.io/slides/01-Week-01/03-Week-1-Lec-03.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - Random Sampling </a>&nbsp;<i class="fas fa-file-lines"></i>      
     &nbsp; <input type="checkbox" /> Guided Classroom Activity <i class="fas fa-comments"></i>   
     </td>
     <td>
