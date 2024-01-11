@@ -97,7 +97,7 @@ all conveniently organized for your academic journey.
       &nbsp; <input type="checkbox" /> <a href = "https://posit.co/download/rstudio-desktop/" target = blank>Install RStudio</a> <i class="fas fa-download"></i>  
     </td>
     <td>    
-    &nbsp; <input type="checkbox" /> <a href = "https://stat218-wi24.github.io/slides/01-Week-01/04-Week-1-Lec-04-Lab-01.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slide </a> <i class="fas fa-file-lines"></i>    
+    &nbsp; <input type="checkbox" /> <a href = "https://stat218-wi24.github.io/slides/01-Week-01/04-Week-1-Lec-04-Lab-01.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides </a>&nbsp; <i class="fas fa-file-lines"></i>    
     </td>
     <td> &nbsp; <input type="checkbox" /> Review the lab session materials <b>(No submission for this lab)</b>
     </td>
