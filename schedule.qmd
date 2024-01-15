@@ -112,8 +112,8 @@ all conveniently organized for your academic journey.
 <table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
   <thead>
-    <th style="width: 45%">BEFORE CLASS</th>
-    <th style="width: 25%">DURING CLASS</th>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 30%">DURING CLASS</th>
     <th style="width: 30%">AFTER CLASS</th>
   </thead>
 
@@ -144,7 +144,7 @@ all conveniently organized for your academic journey.
 FROM Samuels et al. (2016)
     </td>
     <td>    
-    &nbsp; <input type="checkbox" /> Ungraded Quiz   
+    &nbsp; <input type="checkbox" /><a href = "https://canvas.calpoly.edu/courses/120869/modules" target="_blank"><i aria-hidden="true" title="External Link to Quiz"></i> Review 1 - Quiz (On Canvas)</a> &nbsp; <i class="fas fa-highlighter"></i>   
     &nbsp; <input type="checkbox" /> Lab Worksheet   
     <td>
     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 1   
