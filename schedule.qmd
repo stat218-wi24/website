@@ -2,8 +2,6 @@
 toc: true
 ---
 
-Certainly! Here's an adjustment to the second bullet:
-
 ## Course Content
 
 The course content, available here, is further enriched by in-class presentations and activities. Each week, we'll engage with the material through:
