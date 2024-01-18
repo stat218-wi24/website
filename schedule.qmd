@@ -97,7 +97,7 @@ all conveniently organized for your academic journey.
       &nbsp; <input type="checkbox" /> <a href = "https://posit.co/download/rstudio-desktop/" target = blank>Install RStudio</a> <i class="fas fa-download"></i>  
     </td>
     <td>    
-    &nbsp; <input type="checkbox" /> <a href = "https://stat218-wi24.github.io/slides/01-Week-01/04-Week-1-Lec-04-Lab-01.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Hello R! </a>&nbsp; <i class="fas fa-file-lines"></i>    
+    &nbsp; <input type="checkbox" /> <a href = "https://stat218-wi24.github.io/slides/01-Week-01/04-Week-1-Lec-04-Lab-01.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lab Slides - Hello R! </a>&nbsp; <i class="fas fa-file-lines"></i>    
     </td>
     <td> &nbsp; <input type="checkbox" /> Review the lab session materials <b>(No submission for this lab)</b>
     </td>
@@ -113,8 +113,8 @@ all conveniently organized for your academic journey.
 
   <thead>
     <th style="width: 40%">BEFORE CLASS</th>
-    <th style="width: 30%">DURING CLASS</th>
-    <th style="width: 30%">AFTER CLASS</th>
+    <th style="width: 35%">DURING CLASS</th>
+    <th style="width: 25%">AFTER CLASS</th>
   </thead>
 
 <tr>
@@ -145,7 +145,7 @@ FROM Samuels et al. (2016)
     </td>
     <td>    
     &nbsp; <input type="checkbox" /><a href = "https://canvas.calpoly.edu/courses/120869/modules" target="_blank"><i aria-hidden="true" title="External Link to Quiz"></i> Review 1 - Quiz (On Canvas)</a> &nbsp; <i class="fas fa-highlighter"></i>   
-    &nbsp; <input type="checkbox" /><a href = "https://stat218-wi24.github.io/slides/02-Week-02/02-Lecture-02/01-Week-02-Lec-02-Lab-02.html#/title-slide" target="_blank"><i aria-hidden="true" title="External Link to Lab Slides"></i> Lab Worksheet</a>&nbsp; <i class="fas fa-file-lines"></i>       
+    &nbsp; <input type="checkbox" /><a href = "https://stat218-wi24.github.io/slides/02-Week-02/02-Lecture-02/01-Week-02-Lec-02-Lab-02.html#/title-slide" target="_blank"><i aria-hidden="true" title="External Link to Lab Slides"></i> Lab Slides - Hello Quarto!</a>&nbsp; <i class="fas fa-file-lines"></i>       
     <td>
     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 1   
 <br>
@@ -159,8 +159,8 @@ FROM Samuels et al. (2016)
     &nbsp;<input type="checkbox" /> <b>Section 2.6:</b> Measures of Dispersion  <i class="fas fa-book-open"></i>  
     &nbsp; FROM Samuels et al. (2016)</td>
     <td>
-      &nbsp; <input type="checkbox" /> Lecture Notes   
-      &nbsp; <input type="checkbox" /> Guided Activity
+     &nbsp; <input type="checkbox" /> <a href = "https://stat218-wi24.github.io/slides/02-Week-02/03-Lecture-03/01-Week-02-Lec-03.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Shapes, Center and Spread of a Distribution </a>&nbsp; <i class="fas fa-file-lines"></i>       
+      &nbsp; <input type="checkbox" /> <a href = "https://www.rossmanchance.com/applets/2021/descstats/Dotplot.htm" target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Guided Activity </a>&nbsp; <i class="fas fa-comments"></i>    
     </td>
     <td>
     &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercise 2.3.3, 2.3.10, 2.6.2 and 2.6.8  
