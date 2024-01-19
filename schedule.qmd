@@ -164,7 +164,7 @@ all conveniently organized for your academic journey.
 
 </table>
 
-### {{< fa calendar >}} Week 3 (Jan 22 - Jan 25)
+### {{< fa calendar-days >}} Week 3 (Jan 22 - Jan 25)
 
 <table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
@@ -244,7 +244,7 @@ all conveniently organized for your academic journey.
 
 </table>
 
-### {{< fa calendar >}} Week 4 (Jan 29 - Feb 1)
+### {{< fa calendar-days >}} Week 4 (Jan 29 - Feb 1)
 
 <table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
