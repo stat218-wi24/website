@@ -136,16 +136,12 @@ all conveniently organized for your academic journey.
   </tr>
 
   <tr>
-  <td>
-      &nbsp; <b> Introduction to Quarto – Lab 2</b>  
-      &nbsp; <input type="checkbox" /> <b>Section 2.5:</b> Relationship between Variables <i class="fas fa-book-open"></i>   
-FROM Samuels et al. (2016)
-    </td>
+  <td> &nbsp; <b> Introduction to Quarto – Lab 2</b> </td>
     <td>    
     &nbsp; <input type="checkbox" /><a href = "https://canvas.calpoly.edu/courses/120869/modules" target="_blank"><i aria-hidden="true" title="External Link to Quiz"></i> Review 1 - Quiz (On Canvas)</a> &nbsp; <i class="fas fa-highlighter"></i>   
     &nbsp; <input type="checkbox" /><a href = "https://stat218-wi24.github.io/slides/02-Week-02/02-Lecture-02/01-Week-02-Lec-02-Lab-02.html#/title-slide" target="_blank"><i aria-hidden="true" title="External Link to Lab Slides"></i> Lab Slides - Hello Quarto!</a>&nbsp; <i class="fas fa-file-lines"></i>       
     <td>
-    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 1   
+    &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Lab Assignment 1   
 <br>
 <i class="fas fa-clock"></i>  <b> DUE DATE: Sun, Jan 21 </b>
 </td>
@@ -168,18 +164,157 @@ FROM Samuels et al. (2016)
 
 </table>
 
-### {{< fa calendar >}} Week 3
+### {{< fa calendar >}} Week 3 (Jan 22 - Jan 25)
 
-<br>
-Underway &nbsp; <i class="fas fa-broom"></i>
-<br>
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 30%">DURING CLASS</th>
+    <th style="width: 30%">AFTER CLASS</th>
+  </thead>
 
-### {{< fa calendar >}} Week 4
+  <tr>
+    <td> 
+    &nbsp; <b> Probability and the Life Sciences </b>  
+    &nbsp;<input type="checkbox"> <b>Section 2.6:</b> Measures of Dispersion <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b>Section 3.1:</b> Probability and the Life Sciences <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b>Section 3.2:</b> Introduction to Probability <b>(only pp.83-85)</b><i class="fas fa-book-open"></i>  
+    &nbsp; FROM Samuels et al. (2016)
+    </td>
+    <td> 
+    &nbsp;<input type="checkbox" /> Lecture Slides <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+    &nbsp;<input type="checkbox"> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercise 2.6.2 and Exercise 2.6.8 <br>     
+    &nbsp;<i class="fas fa-clock"></i><b> DUE DATE: Sun, Jan 28 </b>
+  </td>
+</tr>
 
+  <tr>
+    <td> 
+    &nbsp; <b> CH 4: The Normal Distribution </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 4.1:</b> Introduction <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Section 4.2:</b> The Normal Curves <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox" /> <b>Section 4.3:</b> Areas under a Normal Curve <i class="fas fa-book-open"></i>   
+    &nbsp; FROM Samuels et al. (2016)
+</td>
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = "https://canvas.calpoly.edu/courses/120869/modules" target="_blank"><i aria-hidden="true" title="External Link to Quiz"></i> Review 2 - Quiz (On Canvas)</a> &nbsp; <i class="fas fa-highlighter"></i>   
+    &nbsp; <input type="checkbox" /> Lecture Slides </a>&nbsp; <i class="fas fa-file-lines"></i>       
+    </td>
+    <td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercise 4.3.5    
 <br>
-Underway &nbsp; <i class="fas fa-broom"></i>
-<br>
+<i class="fas fa-clock"></i>  <b> DUE DATE: Sun, Jan 28 </b>
+</td>
+  </tr>
+
+  <tr>
+    <td>
+    &nbsp; <b> Ch 2: Description of Samples and Populations </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 2.3:</b> Descriptive Statistics <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox" /> <b>Section 2.5:</b> Relationship between Variables <i class="fas fa-book-open"></i>   
+    &nbsp;&nbsp;FROM Samuels et al. (2016)</td>
+    <td>
+    &nbsp; <input type="checkbox" /> Lab Slides &nbsp;<i class="fas fa-file-lines"></i>      
+    </td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 2 (GROUP)  
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Jan 28 </b>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      &nbsp; <b> CH 4: The Normal Distribution </b>  
+      &nbsp;<input type="checkbox" /> <b>Section 4.4:</b> Assessing Normality <i class="fas fa-book-open"></i>  
+      &nbsp;<input type="checkbox" /> <b>Section 4.5:</b> Perspective <i class="fas fa-book-open"></i>    
+    </td>
+    <td>    
+    &nbsp; <input type="checkbox" /> Lecture Slides <i class="fas fa-file-lines"></i>    
+    </td>
+    <td> 
+    &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercises 4.4.4 and 4.4.8  
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Jan 28 </b>
+    </td>
+  </tr>
+
+</table>
+
+### {{< fa calendar >}} Week 4 (Jan 29 - Feb 1)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 33%">DURING CLASS</th>
+    <th style="width: 27%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+    <td> 
+    &nbsp; <b> Ch 5: Sampling Distribution </b>  
+    &nbsp;<input type="checkbox"> <b>Section 5.1:</b> Basic Ideas <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b>Section 5.2:</b> The Sample Mean <i class="fas fa-book-open"></i>  
+    &nbsp; FROM Samuels et al. (2016)
+    </td>
+    <td> 
+    &nbsp;<input type="checkbox" /> Lecture Slides <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+    &nbsp;<input type="checkbox"> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercise 5.2.8 <br>     
+    &nbsp;<i class="fas fa-clock"></i><b> DUE DATE: Sun, Feb 4 </b>
+  </td>
+</tr>
+
+  <tr>
+    <td> 
+    &nbsp; <b> Ch 6: Confidence Interval </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.1:</b> Statistical Estimation <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.2:</b> Standard Error of the Mean <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox" /> <b>Section 6.3:</b> Section 6.3: Confidence Interval for µ <i class="fas fa-book-open"></i>
+    &nbsp; FROM Samuels et al. (2016)
+</td>
+    <td>    
+    &nbsp; <input type="checkbox" /> Lecture Slides </a>&nbsp; <i class="fas fa-file-lines"></i>       
+    </td>
+    <td>
+    &nbsp; NO ASSIGNMENT
+</td>
+  </tr>
+
+  <tr>
+    <td>
+    &nbsp; <b> Ch 2: Description of Samples and Populations </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 2.5:</b> Relationship between Variables <i class="fas fa-book-open"></i>   
+    &nbsp;&nbsp;FROM Samuels et al. (2016)</td>
+    <td>
+    &nbsp; <input type="checkbox" /> Lab Slides &nbsp;<i class="fas fa-file-lines"></i>   
+    &nbsp; <input type="checkbox" /><a href = "https://canvas.calpoly.edu/courses/120869/modules" target="_blank"><i aria-hidden="true" title="External Link to Quiz"></i> Course Check-in Survey (On Canvas)</a> &nbsp; <i class="fas fa-highlighter"></i>   
+    </td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 3 (GROUP)  
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Feb 11 </b>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      &nbsp; <b> CH 1 - CH 4: Review All Course Materials </b>  
+    </td>
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = "https://canvas.calpoly.edu/courses/120869/modules" target="_blank"><i aria-hidden="true" title="External Link to Quiz"></i> Midterm Review (On Canvas)</a> &nbsp; <i class="fas fa-highlighter"></i>    
+    </td>
+    <td> 
+    &nbsp; NO ASSIGNMENT
+    </td>
+  </tr>
+
+</table>
 
 ### {{< fa calendar >}} Week 5
 
