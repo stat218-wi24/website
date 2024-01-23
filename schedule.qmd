@@ -138,7 +138,7 @@ all conveniently organized for your academic journey.
   <tr>
   <td> &nbsp; <b> Introduction to Quarto – Lab 2</b> </td>
     <td>    
-    &nbsp; <input type="checkbox" /><a href = "https://canvas.calpoly.edu/courses/120869/modules" target="_blank"><i aria-hidden="true" title="External Link to Quiz"></i> Review 1 - Quiz (On Canvas)</a> &nbsp; <i class="fas fa-highlighter"></i>   
+    &nbsp; <input type="checkbox" /> Review 1 - Quiz (On Canvas)</a> &nbsp; <i class="fas fa-highlighter"></i>   
     &nbsp; <input type="checkbox" /><a href = "https://stat218-wi24.github.io/slides/02-Week-02/02-Lecture-02/01-Week-02-Lec-02-Lab-02.html#/title-slide" target="_blank"><i aria-hidden="true" title="External Link to Lab Slides"></i> Lab Slides - Hello Quarto!</a>&nbsp; <i class="fas fa-file-lines"></i>       
     <td>
     &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Lab Assignment 1   
@@ -200,7 +200,7 @@ all conveniently organized for your academic journey.
     &nbsp; FROM Samuels et al. (2016)
 </td>
     <td>    
-    &nbsp; <input type="checkbox" /><a href = "https://canvas.calpoly.edu/courses/120869/modules" target="_blank"><i aria-hidden="true" title="External Link to Quiz"></i> Review 2 - Quiz (On Canvas)</a> &nbsp; <i class="fas fa-highlighter"></i>   
+    &nbsp; <input type="checkbox" /> Review 2 - Quiz (On Canvas)</a> &nbsp; <i class="fas fa-highlighter"></i>   
     &nbsp; <input type="checkbox" /><a href = "https://stat218-wi24.github.io/slides/03-Week-03/02-Lecture-02/01-Week-03-Lec-02.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Introduction to the Normal Distribution </a>&nbsp; <i class="fas fa-file-lines"></i> 
     </td>
     <td>
@@ -307,7 +307,7 @@ all conveniently organized for your academic journey.
       &nbsp; <b> CH 1 - CH 4: Review All Course Materials </b>  
     </td>
     <td>    
-    &nbsp; <input type="checkbox" /><a href = "https://canvas.calpoly.edu/courses/120869/modules" target="_blank"><i aria-hidden="true" title="External Link to Quiz"></i> Midterm Review (On Canvas)</a> &nbsp; <i class="fas fa-highlighter"></i>    
+    &nbsp; <input type="checkbox" /> Midterm Review (On Canvas)</a> &nbsp; <i class="fas fa-highlighter"></i>    
     </td>
     <td> 
     &nbsp; NO ASSIGNMENT
