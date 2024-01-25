@@ -170,8 +170,8 @@ all conveniently organized for your academic journey.
 
   <thead>
     <th style="width: 40%">BEFORE CLASS</th>
-    <th style="width: 30%">DURING CLASS</th>
-    <th style="width: 30%">AFTER CLASS</th>
+    <th style="width: 35%">DURING CLASS</th>
+    <th style="width: 25%">AFTER CLASS</th>
   </thead>
 
   <tr>
@@ -233,15 +233,13 @@ all conveniently organized for your academic journey.
       &nbsp;<input type="checkbox" /> <b>Section 4.5:</b> Perspective <i class="fas fa-book-open"></i>    
     </td>
     <td>    
-    &nbsp; <input type="checkbox" /> Lecture Slides <i class="fas fa-file-lines"></i>    
-    </td>
+&nbsp; <input type="checkbox" /><a href = "https://stat218-wi24.github.io/slides/03-Week-03/04-Lecture-04/01-Week-03-Lec-04.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Assessing Normality </a>&nbsp; <i class="fas fa-file-lines"></i>     </td>
     <td> 
     &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercises 4.4.4 and 4.4.8  
     <br>
     <i class="fas fa-clock"></i><b> DUE DATE: Sun, Jan 28 </b>
     </td>
   </tr>
-
 </table>
 
 ### {{< fa calendar-days >}} Week 4 (Jan 29 - Feb 1)
