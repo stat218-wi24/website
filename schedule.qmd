@@ -316,11 +316,70 @@ all conveniently organized for your academic journey.
 
 </table>
 
-### {{< fa calendar >}} Week 5
+### {{< fa calendar-days >}} Week 5 (Feb 5 - Feb 8)
 
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 35%">DURING CLASS</th>
+    <th style="width: 25%">AFTER CLASS</th>
+  </thead>
+
+<tr>
+  <td colspan="3" style="text-align: center;">&nbsp; <b> Midterm 1 (In-class) </b></td>
+</tr>
+
+  <tr>
+    <td> 
+    &nbsp; <b> Ch 6: Confidence Interval </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.3:</b> CI for µ <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox" /> <b>Section 6.4:</b> Planning a Study to Estimate µ <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.5:</b> Conditions for Validity of Estimation Methods <i class="fas fa-book-open"></i>    
+    &nbsp; FROM Samuels et al. (2016)
+    </td>
+    <td>    
+    &nbsp; <input type="checkbox" /> Lecture Slides - Student's $t$ Distribution </a>&nbsp; <i class="fas fa-file-lines"></i>    
+    </td>
+    
+  <td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercises 6.4.1  
 <br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
+<i class="fas fa-clock"></i>  <b> DUE DATE: Sun, Feb 11 </b>
+</td>
+  </tr>
+
+  <tr>
+  <td> 
+  &nbsp; <b> Ch 6: Confidence Interval </b>    
+  &nbsp;<input type="checkbox" /> <b>Section 6.6:</b> Comparing two means <i class="fas fa-book-open"></i>    
+  &nbsp;<input type="checkbox" /> <b>Section 6.7:</b> Confidence Interval for µ1 - µ2 <i class="fas fa-book-open"></i>  
+  </td>
+    <td>    
+    &nbsp; <input type="checkbox" /> Lecture Slides - Comparing Two Means &nbsp; <i class="fas fa-file-lines"></i>       
+    <td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercise 6.7.11   
 <br>
+<i class="fas fa-clock"></i>  <b> DUE DATE: Sun, Feb 11 </b>
+</td>
+  </tr>
+
+  <tr>
+    <td> &nbsp; <b> Ch 7: Comparison of Two Independent Samples </b>  
+    &nbsp;<input type="checkbox" /> The Entire Chapter 7 EXCEPT for Section 7.1 <i class="fas fa-book-open"></i>    
+    &nbsp; FROM Samuels et al. (2016)</td>
+    <td>
+     &nbsp; <input type="checkbox" />  Lecture Slides - Introduction to Hypothesis Testing &nbsp; <i class="fas fa-file-lines"></i>       
+      &nbsp; <input type="checkbox" /> <a href = "https://www.rossmanchance.com/applets/index2021.html" target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Guided Activity </a>&nbsp; <i class="fas fa-comments"></i>    
+    </td>
+    <td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercise 7.2.9  
+<br>
+<i class="fas fa-clock"></i><b> DUE DATE: Sun, Feb 11 </b>
+    </td>
+  </tr>
+
+</table>
 
 ### {{< fa calendar >}} Week 6
 
