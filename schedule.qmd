@@ -369,8 +369,7 @@ all conveniently organized for your academic journey.
     &nbsp;<input type="checkbox" /> The Entire Chapter 7 EXCEPT for Section 7.1 <i class="fas fa-book-open"></i>    
     &nbsp; FROM Samuels et al. (2016)</td>
     <td>
-     &nbsp; <input type="checkbox" />  Lecture Slides - Introduction to Hypothesis Testing &nbsp; <i class="fas fa-file-lines"></i>       
-      &nbsp; <input type="checkbox" /> <a href = "https://www.rossmanchance.com/applets/index2021.html" target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Guided Activity </a>&nbsp; <i class="fas fa-comments"></i>    
+     &nbsp; <input type="checkbox" /><a href = "https://stat218-wi24.github.io/slides/05-Week-05/04-Lecture-04/01-Week-05-Lecture-04.html"target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Introduction to Hypothesis Testing & Comparison of Independent Samples </a> &nbsp; <i class="fas fa-file-lines"></i>       
     </td>
     <td>
     &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Exercise 7.2.9  
