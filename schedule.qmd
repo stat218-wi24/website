@@ -366,7 +366,7 @@ all conveniently organized for your academic journey.
 
   <tr>
     <td> &nbsp; <b> Ch 7: Comparison of Two Independent Samples </b>  
-    &nbsp;<input type="checkbox" /> The Entire Chapter 7 EXCEPT for Section 7.1 <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox" /> The Entire Chapter 7 EXCEPT for Section 7.10 <i class="fas fa-book-open"></i>    
     &nbsp; FROM Samuels et al. (2016)</td>
     <td>
      &nbsp; <input type="checkbox" /><a href = "https://stat218-wi24.github.io/slides/05-Week-05/04-Lecture-04/01-Week-05-Lecture-04.html"target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Introduction to Hypothesis Testing & Comparison of Independent Samples </a> &nbsp; <i class="fas fa-file-lines"></i>       
@@ -380,11 +380,88 @@ all conveniently organized for your academic journey.
 
 </table>
 
-### {{< fa calendar >}} Week 6
+### {{< fa calendar-days >}} Week 6 (Feb 12 - Feb 15)
 
-<br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
-<br>
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 33%">DURING CLASS</th>
+    <th style="width: 27%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+    <td> 
+    &nbsp; <b> Ch 7: Inference for Numerical Data </b>    
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i> 7.1.5 One sample t-tests</a>&nbsp; <i class="fas fa-book-open"></i>    
+    &nbsp; FROM Diez et al. (2022) 
+    <br>
+    <br>
+    &nbsp; <b> Ch 8: Comparison of Paired Samples </b>  
+    &nbsp;<input type="checkbox"> <b>Section 8.1:</b> Introduction <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b>Section 8.2:</b> The Paired-Sample t Test and Confidence Interval <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b> Section 8.3:</b> The Paired Design  <i class="fas fa-book-open"></i>  
+    &nbsp; FROM Samuels et al. (2016)    
+    </td>
+    <td> 
+    &nbsp; <input type="checkbox" /> Lecture Slides &nbsp; <i class="fas fa-file-lines"></i>     
+    </td>
+    <td>
+    &nbsp; NO ASSIGNMENT
+  </td>
+</tr>
+
+  <tr>
+    <td> 
+    &nbsp; <b> Chapter 7  & Chapter 8 </b>  
+    &nbsp;<input type="checkbox" /> Review your notes of Ch 7 & 8 <i class="fas fa-book-open"></i>  
+    &nbsp; FROM Samuels et al. (2016)  
+    &nbsp; FROM Diez et al. (2022)    
+</td>
+    <td>    
+    &nbsp; <input type="checkbox" /> Lecture Worksheet (DOWNLOAD or PRINT) &nbsp;<i class="fas fa-laptop-file"></i>   
+    </td>
+    <td>
+    &nbsp; NO ASSIGNMENT
+</td>
+  </tr>
+
+  <tr>
+    <td>
+    &nbsp; <b> Chapter 7  & Chapter 8 </b>  
+    &nbsp;<input type="checkbox" /> Review your notes of Ch 7 & 8 <i class="fas fa-book-open"></i>  
+    &nbsp; FROM Samuels et al. (2016)   
+    &nbsp; FROM Diez et al. (2022)    
+    </td>
+    <td>
+    &nbsp; <input type="checkbox" /> Lab Worksheet (DOWNLOAD) &nbsp; <i class="fas fa-laptop-file"></i>
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 4 (GROUP)  
+     &nbsp; &nbsp; &nbsp; _Upload the lab worksheet we will work on in class._
+    <br>
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Feb 18 </b>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+    &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Section 6.1</b> Inference for a single proportion</a>&nbsp; <i class="fas fa-book-open"></i>    
+    &nbsp; FROM Diez et al. (2022) 
+    </td>
+    <td>    
+    &nbsp; <input type="checkbox" /> Lecture Slides &nbsp; <i class="fas fa-file-lines"></i>
+    </td>
+    <td> 
+    &nbsp; NO ASSIGNMENT
+    </td>
+  </tr>
+
+</table>
+
 
 ### {{< fa calendar >}} Week 7
 
