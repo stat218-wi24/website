@@ -42,7 +42,7 @@ not_here_dates <- c(
 
 exam_date <- c(ymd(20240205), ymd(20240316))
 
-project_dates <- c(ymd(20240222), ymd(20240319))
+project_dates <- c(ymd(20240229), ymd(20240319))
 
 finals_week <- seq(ymd(20240318), ymd(20240322), by = 1)
 
@@ -320,7 +320,7 @@ Here are the due dates of exams and projects:
 
 __Mon, Feb 5:__ Midterm Exam (Individual, In-class)
 
-__Thu, Feb 22:__ Midterm Project (Group submission on Canvas)
+__Thu, Feb 29:__ Midterm Project (Group submission on Canvas)
 
 __Sat, Mar 16:__ Common Final Exam (Individual) - TBD
 
@@ -333,11 +333,11 @@ The overarching goal of the projects in this course is to empower life science s
 
 __Midterm Project:__ In this midterm project, you will select your own dataset from <a href="https://www.openintro.org/data/" target="_blank"> OpenIntro Data Sets </a> or another suitable source. If your group members share the same major, it's recommended to choose a dataset related to your field of study.
 
-The project will involve applying various statistical procedures covered in our course. For detailed instructions, refer to the template (Template will be provided later on).
+The project will involve applying various statistical procedures covered in our course. For detailed instructions, refer to the template on your Canvas page.
 
 __Final Project:__ In this final project, you will select your own dataset from <a href="https://www.openintro.org/data/" target="_blank"> OpenIntro Data Sets </a> or another suitable source. If your group members share the same major, it's recommended to choose a dataset related to your field of study.
 
-The project will involve applying various statistical procedures covered in our course. For detailed instructions, refer to the template(Template will be provided later on).
+The project will involve applying various statistical procedures covered in our course. For detailed instructions, refer to the template on your Canvas page.
 
 ::: {.callout-important}
 
