@@ -420,7 +420,9 @@ all conveniently organized for your academic journey.
     &nbsp; FROM Diez et al. (2022)    
 </td>
     <td>    
-    &nbsp; <input type="checkbox" /><a href = "https://canvas.calpoly.edu/"target="_blank"><i aria-hidden="true" title="External Link to Midterm Instructions Slide"></i> _t_ tests Worksheet (DOWNLOAD or PRINT)(on CANVAS) </a> &nbsp;<i class="fas fa-laptop-file"></i>   
+    &nbsp; <input type="checkbox" /><a href = "https://canvas.calpoly.edu/"target="_blank"><i aria-hidden="true" title="External Link to Midterm Instructions Slide"></i> _t_ tests Worksheet (DOWNLOAD or PRINT)(on CANVAS) </a> &nbsp;<i class="fas fa-laptop-file"></i>    
+    &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/forms/d/e/1FAIpQLScMqlQh9d49flpfN7H17orKxLzJRCXnc85DuIIk0ZlTpjhWOg/viewform?usp=sf_link"target="_blank"><i aria-hidden="true" title="External Link to Quiz"></i>Ungraded Quiz - Review of _t_ tests </a> &nbsp; <i class="fas fa-link"></i>   
+    &nbsp; <input type="checkbox" /><a href = "http://courses.atlas.illinois.edu/spring2016/STAT/STAT200/pt.html"target="_blank"><i aria-hidden="true" title="External Link to p-value calculator"></i>$P$ - value calculator </a> &nbsp; <i class="fas fa-link"></i> 
     </td>
     <td>
     &nbsp; NO ASSIGNMENT
