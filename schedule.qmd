@@ -385,9 +385,9 @@ all conveniently organized for your academic journey.
 <table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
   <thead>
-    <th style="width: 40%">BEFORE CLASS</th>
-    <th style="width: 33%">DURING CLASS</th>
-    <th style="width: 27%">AFTER CLASS</th>
+    <th style="width: 37%">BEFORE CLASS</th>
+    <th style="width: 38%">DURING CLASS</th>
+    <th style="width: 25%">AFTER CLASS</th>
   </thead>
 
   <tr>
@@ -437,7 +437,8 @@ all conveniently organized for your academic journey.
     &nbsp; FROM Diez et al. (2022)    
     </td>
     <td>
-    &nbsp; <input type="checkbox" /> Lab Worksheet (DOWNLOAD) &nbsp; <i class="fas fa-laptop-file"></i>
+    &nbsp; <input type="checkbox" /><a href = "https://drive.google.com/file/d/1d5c3K64SlwwUZk0DOhlMgi5zVJ6_sSAC/view?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lab Worksheet - DOWNLOAD </a>&nbsp; <i class="fas fa-laptop-file"></i>  
+    &nbsp; <input type="checkbox" /><a href = "https://stat218-wi24.github.io/slides/06-Week-06/03-Lecture-03/01-Week-06-Lec-03-Lab-04-slide.html"target="_blank"><i aria-hidden="true" title="External Link to Lab Slide"></i> Lab Slides - _t_-tests </a> &nbsp; <i class="fas fa-file-lines"></i> 
     </td>
     <td>
     <br>
@@ -451,12 +452,10 @@ all conveniently organized for your academic journey.
 
   <tr>
     <td>
-    &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
-    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Section 6.1</b> Inference for a single proportion</a>&nbsp; <i class="fas fa-book-open"></i>    
-    &nbsp; FROM Diez et al. (2022) 
+    &nbsp; <b> Review of Ch.7 & Ch.8 </b> &nbsp; <i class="fas fa-book-open"></i>    
     </td>
     <td>    
-    &nbsp; <input type="checkbox" /> Lecture Slides &nbsp; <i class="fas fa-file-lines"></i>
+    &nbsp; <input type="checkbox" /> Lecture Slides & Lab Slides of This Week &nbsp; <i class="fas fa-file-lines"></i>
     </td>
     <td> 
     &nbsp; NO ASSIGNMENT
@@ -466,11 +465,72 @@ all conveniently organized for your academic journey.
 </table>
 
 
-### {{< fa calendar >}} Week 7
+### {{< fa calendar-days >}} Week 7 (Feb 19 - Feb 22)
 
-<br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
-<br>
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 45%">BEFORE CLASS</th>
+    <th style="width: 27%">DURING CLASS</th>
+    <th style="width: 28%">AFTER CLASS</th>
+  </thead>
+
+<tr>
+  <td colspan="3" style="text-align: center;">&nbsp; <b>No Class Today !</b></td>
+</tr>
+
+  <tr>
+    <td>
+    &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sec. 6.1</b> Inference for a single proportion</a>&nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Diez et al. (2022) 
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox" /> Lecture Slides &nbsp; <i class="fas fa-file-lines"></i>
+    </td>
+    <td> 
+    &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i>    &nbsp;<a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Homework PDF"></i> <b>Exercise 6.8 (c), (d), (e)</b></a>  
+    <br>
+    <b>FROM Diez et al. (2022)</b></a> 
+    <br>  
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Feb 25 </b>    
+    </td>
+  </tr>
+  <tr>
+    <td>
+    &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sec. 6.2</b> Difference of two proportions</a>&nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Diez et al. (2022) 
+    <br>  
+    &nbsp;<input type="checkbox"><b> 10.9 Relative Risk and the Odds Ratio </b><i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016)  
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox" /> Lecture Slides &nbsp; <i class="fas fa-file-lines"></i>
+    </td>
+    <td> &nbsp; NO ASSIGNMENT</td>
+  </tr>
+  <tr>
+    <td>
+    &nbsp; <b>Ch 6: Inference for Categorical Data</b>  
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sect. 6.3</b> Testing for goodness of fit using chi-square</a>&nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sect. 6.4 </b> Testing for independence in two-way tables</a>&nbsp;<i class="fas fa-book-open"></i>   
+    &nbsp;&nbsp;FROM Diez et al. (2022)
+    </td>
+    <td>
+    &nbsp; <input type="checkbox" /> Lab Slides &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 5 (GROUP)  
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Feb 25 </b>
+    </td>
+  </tr>
+
+</table>
 
 ### {{< fa calendar >}} Week 8
 
