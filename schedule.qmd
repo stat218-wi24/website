@@ -510,7 +510,8 @@ all conveniently organized for your academic journey.
     &nbsp; FROM Samuels et al. (2016)  
     </td>   
     <td>    
-    &nbsp; <input type="checkbox" /> Lecture Slides &nbsp; <i class="fas fa-file-lines"></i>
+    &nbsp; <input type="checkbox" /><a href = "https://stat218-wi24.github.io/slides/07-Week-07/02-Lecture-02/01-Week-07-Lec-02.html"target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Inference for Categorical Data </a> &nbsp; <i class="fas fa-file-lines"></i>    
+    &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/1vPwvPtbgkZRv6YLjwXSfv7PT6id8mvS5TmxglnuKkMk/edit?usp=sharing"target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Relative Risk and the Odds Ratio </a> &nbsp; <i class="fas fa-file-lines"></i> 
     </td>
     <td> &nbsp; NO ASSIGNMENT</td>
   </tr>
