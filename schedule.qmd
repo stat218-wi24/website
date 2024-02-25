@@ -531,11 +531,78 @@ all conveniently organized for your academic journey.
 
 </table>
 
-### {{< fa calendar >}} Week 8
+### {{< fa calendar-days >}} Week 8 (Feb 26 - Feb 29)
 
-<br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
-<br>
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 45%">BEFORE CLASS</th>
+    <th style="width: 30%">DURING CLASS</th>
+    <th style="width: 25%">AFTER CLASS</th>
+  </thead>
+
+<tr>
+    <td>
+    &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i> Chapter Review </a>&nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Diez et al. (2022) 
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox" /> Lecture Slides </a> &nbsp; <i class="fas fa-file-lines"></i>    
+    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1vPwvPtbgkZRv6YLjwXSfv7PT6id8mvS5TmxglnuKkMk/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Relative Risk and the Odds Ratio </a> &nbsp; <i class="fas fa-file-lines"></i>
+    </td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Take-Home Midterm   
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Fri, Feb 29 </b>
+    </td> 
+</tr>
+  <tr>
+    <td>
+    &nbsp; Comprehensive Review of Weeks 1-7
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox" /> Midterm 1 Review &nbsp; <i class="fas fa-file-lines"></i> 
+    </td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Take-Home Midterm   
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Fri, Feb 29 </b>
+    </td> 
+    </tr>
+  <tr>
+    <td>
+    &nbsp; <b> Ch 12: Linear Regression and Correlation </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 12.2</b> The Correlation Coefficient &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox" /> Lecture Slides &nbsp; <i class="fas fa-file-lines"></i>    
+    </td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Take-Home Midterm   
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Fri, Feb 29 </b>
+    </td> 
+    </tr>
+  <tr>
+    <td> &nbsp; <b> Midterm Project Topics </b></td>
+    <td> &nbsp;<input type="checkbox">In-Class Q&A: Take-Home Midterm Topics &nbsp; <i class=""fas fa-comments></i></td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Take-Home Midterm   
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Fri, Feb 29 </b>
+    </td> 
+    </tr>
+
+</table>
+
+
+
 
 ### {{< fa calendar >}} Week 9
 
