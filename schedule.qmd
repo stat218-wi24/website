@@ -549,8 +549,7 @@ all conveniently organized for your academic journey.
     &nbsp; FROM Diez et al. (2022) 
     </td>   
     <td>    
-    &nbsp; <input type="checkbox" /> Lecture Slides </a> &nbsp; <i class="fas fa-file-lines"></i>    
-    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1vPwvPtbgkZRv6YLjwXSfv7PT6id8mvS5TmxglnuKkMk/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Relative Risk and the Odds Ratio </a> &nbsp; <i class="fas fa-file-lines"></i>
+    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1Az39ImioV625MVHn4ng65cxoGJQ1UgUmoGg0RpDhqxI/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Chi-Square Test, Relative Risk and the Odds Ratio </a> &nbsp; <i class="fas fa-file-lines"></i>
     </td>
     <td>
      &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Take-Home Midterm   
