@@ -536,8 +536,8 @@ all conveniently organized for your academic journey.
 <table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
   <thead>
-    <th style="width: 45%">BEFORE CLASS</th>
-    <th style="width: 30%">DURING CLASS</th>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 35%">DURING CLASS</th>
     <th style="width: 25%">AFTER CLASS</th>
   </thead>
 
@@ -549,7 +549,8 @@ all conveniently organized for your academic journey.
     &nbsp; FROM Diez et al. (2022) 
     </td>   
     <td>    
-    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1Az39ImioV625MVHn4ng65cxoGJQ1UgUmoGg0RpDhqxI/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Chi-Square Test, Relative Risk and the Odds Ratio </a> &nbsp; <i class="fas fa-file-lines"></i>
+    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1Az39ImioV625MVHn4ng65cxoGJQ1UgUmoGg0RpDhqxI/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Chi-Square Test, Relative Risk and the Odds Ratio </a> &nbsp; <i class="fas fa-file-lines"></i>    
+    &nbsp; <input type="checkbox" /><a href = "https://drive.google.com/file/d/1qyjwEXDHa6WM_zSNCFJYg3Hxf3fX54zj/view?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lecture Worksheet - DOWNLOAD </a>&nbsp; <i class="fas fa-laptop-file"></i>      
     </td>
     <td>
      &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Take-Home Midterm   
