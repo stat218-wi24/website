@@ -563,7 +563,7 @@ all conveniently organized for your academic journey.
     &nbsp; Comprehensive Review of Weeks 1-7
     </td>   
     <td>    
-    &nbsp; <input type="checkbox" /> Midterm 1 Review &nbsp; <i class="fas fa-file-lines"></i> 
+    &nbsp; <input type="checkbox" /> <a href = "https://forms.gle/EhNufakn5hQ3rDbd7" target="_blank"><i aria-hidden="true" title="External Link to Quiz"></i> Review Quiz (UNGRADED) </a>&nbsp; &nbsp; <i class="fas fa-highlighter"></i> 
     </td>
     <td>
      &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Take-Home Midterm   
