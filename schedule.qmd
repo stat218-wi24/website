@@ -605,14 +605,155 @@ all conveniently organized for your academic journey.
 
 
 
-### {{< fa calendar >}} Week 9
+### {{< fa calendar-days >}} Week 9 (Mar 4 - Mar 7)
 
-<br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
-<br>
 
-### {{< fa calendar >}} Week 10
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
-<br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
-<br>
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 37%">DURING CLASS</th>
+    <th style="width: 23%">AFTER CLASS</th>
+  </thead>
+
+<tr>
+    <td>
+    &nbsp; <b> Ch 12: Linear Regression and Correlation </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.3</b> The Fitted Regression Line &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 12.4</b> Parametric Interpretation of Regression: The Linear Model &nbsp; <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.5</b> Statistical Inference Concerning $\beta_1$ &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016) 
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1gB8pkpfn9pbzg_0FH3m0IKFFhPOImE7NkEF_-eSSpfw/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Least Squares Regression </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Week 9 Individual Assignment (on CANVAS)
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Mar 10 </b>
+    </td> 
+</tr>
+  <tr>
+    <td>
+    &nbsp;<input type="checkbox" />  <b> Ch 12: Linear Regression and Correlation </b>   
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox" /> Lab Slides &nbsp; &nbsp; <i class="fas fa-file-lines"></i>   
+    &nbsp; <input type="checkbox" /> Lab Worksheet &nbsp; &nbsp; <i class="fas fa-laptop-file"></i>   
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 6  
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Mar 10 </b>
+    </td> 
+    </tr>
+  <tr>
+    <td>
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> 
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; Lecture Slides &nbsp; <i class="fas fa-file-lines"></i>    
+    </td>
+    <td>
+     &nbsp; NO ASSIGNMENT 
+    </td> 
+    </tr>
+  <tr>
+    <td>     
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> 
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; Lab Slides &nbsp; <i class="fas fa-file-lines"></i>    
+    </td>
+    <td>
+     &nbsp; NO ASSIGNMENT 
+    </td> 
+    </tr>
+
+</table>
+
+### {{< fa calendar-days >}} Week 10 (Mar 11 - Mar 14)
+
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 43%">BEFORE CLASS</th>
+    <th style="width: 32%">DURING CLASS</th>
+    <th style="width: 25%">AFTER CLASS</th>
+  </thead>
+
+<tr>
+    <td>
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.6</b> One-Way Randomized Blocks Design &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.7</b> Two-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; Lecture Slides &nbsp; <i class="fas fa-file-lines"></i>    
+    </td>
+    <td>
+     &nbsp; NO ASSIGNMENT 
+    </td> 
+</tr>
+  <tr>
+    <td>
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.9</b> Multiple Comparisons &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; Lab Slides &nbsp; <i class="fas fa-file-lines"></i>    
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 7  
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Mar 17 </b>    </td> 
+    </tr>
+  <tr>
+    <td>
+    &nbsp;<input type="checkbox" /><b> All chapters given above </b>    
+    <br>
+    &nbsp; FROM Samuels et al. (2016) & FROM Diez et al. (2022) 
+    <br>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox"> Mock Final (On CANVAS)</a> &nbsp; <i class="fas fa-highlighter"></i>   
+    </td>
+    <td> 
+    &nbsp; NO ASSIGNMENT 
+    </td> 
+    </tr>
+  <tr>
+    <td> &nbsp; <b> Final Project Topics </b></td>
+    <td> &nbsp;<input type="checkbox">In-Class Q&A: Take-Home Final Topics &nbsp; <i class=""fas fa-comments></i></td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Take-Home Final   
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Tue, Mar 19 </b>
+    </td> 
+    </tr>
+
+</table>
