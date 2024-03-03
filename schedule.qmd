@@ -682,8 +682,10 @@ all conveniently organized for your academic journey.
     &nbsp; Lab Slides &nbsp; <i class="fas fa-file-lines"></i>    
     </td>
     <td>
-     &nbsp; NO ASSIGNMENT 
-    </td> 
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 6  
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Mar 10 </b>    </td> 
     </tr>
 
 </table>
