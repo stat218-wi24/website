@@ -661,7 +661,8 @@ all conveniently organized for your academic journey.
     <br>
     </td>   
     <td>    
-    &nbsp; Lecture Slides &nbsp; <i class="fas fa-file-lines"></i>    
+   &nbsp; <input type="checkbox" /><a href = "https://drive.google.com/file/d/16o-ZKL6qHJHDh9YPzEYhsE-Rf10dlyLg/view?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lecture Worksheet (DOWNLOAD) </a>&nbsp; <i class="fas fa-laptop-file"></i>  
+    &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/1v4ILGcE91NofW7E7LYMlZ_-oySQSfnnUlsmGDELAkz4/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - One-Way ANOVA</a> &nbsp; <i class="fas fa-file-lines"></i>       
     </td>
     <td>
      &nbsp; NO ASSIGNMENT 
