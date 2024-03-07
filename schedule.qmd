@@ -680,8 +680,9 @@ all conveniently organized for your academic journey.
     <br>
     </td>   
     <td>    
-    &nbsp; Lab Slides &nbsp; <i class="fas fa-file-lines"></i>    
-    </td>
+    &nbsp; <input type="checkbox" /><a href = "https://drive.google.com/file/d/1n9xMg0aeU1H0mJl0P2RdX2xoTQzXo_Uk/view?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lab Worksheet - DOWNLOAD </a>&nbsp; <i class="fas fa-laptop-file"></i>  
+    &nbsp; <input type="checkbox" /><a href = "https://drive.google.com/file/d/1on3iwpmV0c1zJrdOY4C9H1QwNISPsix8/view?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lab Dataset"></i> Lab Dataset - DOWNLOAD </a>&nbsp; <i class="fas fa-laptop-file"></i>      
+    &nbsp; <input type="checkbox" /><a href = "https://stat218-wi24.github.io/slides/09-Week-09/04-Lecture-04/01-Presentation/01-Week-09-Lec-04-Lab-08.html"target="_blank"><i aria-hidden="true" title="External Link to Lab Slide"></i> Lab Slides - One-Way ANOVA </a> &nbsp; <i class="fas fa-file-lines"></i>     </td>
     <td>
     <br>
      &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 6  
